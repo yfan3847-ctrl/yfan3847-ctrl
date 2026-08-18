@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**yfan3847-ctrl/yfan3847-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves working with Linux, automation, and open-source tools.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, Bash, Go
+- **Tools:** Docker, Git, tmux, vim
+- **OS:** Linux (Debian/Ubuntu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Repositories
+- [dotfiles](https://github.com/yfan3847-ctrl/dotfiles) — my personal configuration files
+
+## ⚡ Currently
+- Exploring cloud-native technologies
+- Maintaining my dotfiles
+
+---
+⭐️ From [GitHub](https://github.com/yfan3847-ctrl)
