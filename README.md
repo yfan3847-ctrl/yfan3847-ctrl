@@ -12,8 +12,8 @@ Welcome to my GitHub profile!
 - [dotfiles](https://github.com/yfan3847-ctrl/dotfiles) — my personal configuration files
 
 ## ⚡ Currently
-- Building automation pipelines
-- Experimenting with Kubernetes
+- Exploring cloud-native technologies
+- Maintaining my dotfiles
 
 ---
 ⭐️ From [GitHub](https://github.com/yfan3847-ctrl)
