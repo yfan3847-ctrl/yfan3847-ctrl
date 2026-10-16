@@ -12,8 +12,8 @@ Welcome to my GitHub profile!
 - [dotfiles](https://github.com/yfan3847-ctrl/dotfiles) — my personal configuration files
 
 ## ⚡ Currently
-- Learning Rust and Go
-- Contributing to open-source projects
+- Building automation pipelines
+- Experimenting with Kubernetes
 
 ---
 ⭐️ From [GitHub](https://github.com/yfan3847-ctrl)
